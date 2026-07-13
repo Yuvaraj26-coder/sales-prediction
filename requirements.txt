@@ -4,3 +4,7 @@ plotly
 matplotlib
 seaborn
 statsmodels
+prophet
+scikit-learn
+adjustText
+pmdarima
